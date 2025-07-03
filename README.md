@@ -3,7 +3,7 @@
 ![imagem da homepage principal da Clínica UltraMed](https://github.com/user-attachments/assets/e51677d2-214b-44fd-bc78-0a9b1fd7ea76)
 
 # Descrição do Projeto 
-A Clínica UltraMed é uma aplicação feita com Java. O software foi trabalhado em uma arquitetura MVC (Model-View-Controller). A aplicação executa em tempo de execução, abrindo uma janela no sistema operacional executado, que permite navegar pelo software. Para a operação apropriada do software, é necessário a conexão com algum banco de dados como o MySQL para o armazenamento de informações cadastradas de médico, paciente e funcionário.
+A Clínica UltraMed é um software que permite o cadastro e o gerenciamento de médicos, pacientes e funcionários, disponibilizando acesso a um banco de dados para o armazenamento eficiente das informações cadastradas. A aplicação foi feita inteiramente na linguagem Java e seus recursos, tanto o front-end quanto o back-end, utilizando uma arquitetura MVC (Model-View-Controller) para o gerenciamento de pacotes. O software executa em tempo de execução, abrindo uma janela no sistema operacional executado, permitindo o uso do software. Para a operação apropriada do software, é necessário a conexão com algum banco de dados como o MySQL para o armazenamento de informações cadastradas de médico, paciente e funcionário.
 
 Este projeto foi elaborado no primeiro semestre do Bacharelado em Sistemas de Informação pela Universidade do Sul de Santa Catarina (UNISUL).
 
